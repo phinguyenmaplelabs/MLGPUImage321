@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'MLGPUImage'
+  s.name             = 'MLGPUImage123'
   s.version          = '1.0.0'
   s.summary          = 'A short description of MLGPUImage.'
 
